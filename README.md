@@ -1,4 +1,4 @@
-# VPC and Networking :sushi::japan::lollipop:
+# VPC and Networking :sushi::japan::lollipop::bread:
 
 ## What is a VPC?
 
