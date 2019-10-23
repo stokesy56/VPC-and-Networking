@@ -34,6 +34,6 @@
 
 ## What is an internet gateway?
 
-  An internet gateway serves two purposes: to provide a target in your VPC route tables for internet-routable traffic, and to perform network address translation (NAT) for instances that have been assigned public IPv4 addresses. :bacon:
+  An internet gateway serves two purposes: to provide a target in your VPC route tables for internet-routable traffic, and to perform network address translation (NAT) for instances that have been assigned public IPv4 addresses. :bacon::bread:
 
 ![](https://camo.githubusercontent.com/2f12eb5365d43468fadb065d25d698a8f03b2749/68747470733a2f2f646f63732e6177732e616d617a6f6e2e636f6d2f7670632f6c61746573742f7573657267756964652f696d616765732f6e61742d696e7374616e63652d6469616772616d2e706e67)
