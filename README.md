@@ -1,4 +1,4 @@
-# VPC and Networking :sushi::japan::lollipop::bread:
+# VPC and Networking :sushi::japan:
 
 ## What is a VPC?
 
@@ -27,3 +27,11 @@
   - In NACl return traffic must explicitly be allowed by rules
   - NACL evaluates rules one at a time in order, security groups evaluate all rules before deciding whether to allow traffic
   - NACL applies to all instances in it's subnet whereas security group only applies to an instance if specified (although a default sg will be placed that simply allows all traffic)
+
+## What is a route table?
+
+  Your VPC has an implicit router, and you use route tables to control where network traffic is directed. Every subnet must be associated to a with a route table. Each route in a table specifies a route and a target
+
+## What is an internet gateway?
+
+  
